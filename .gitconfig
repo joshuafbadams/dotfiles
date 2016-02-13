@@ -1,6 +1,6 @@
 [user]
-	name = Roey Chasman
-	email = rchasman@email.arizona.edu
+	name = joshuafbadams
+	email = josh.f.b.adams@gmail.com
 [core]
 	autocrlf = input
 	safecrlf = true
@@ -9,7 +9,5 @@
 	upload = true
 [color]
 	ui = auto
-[gravatar]
-	hide = false
 [hooks]
-	global = /Users/rchasman/git-hooks/contrib/
+	global = /Users/joshuafbadams/git-hooks/contrib/
