@@ -7,6 +7,6 @@ Want to easily symlink the files? Use [homesick](https://github.com/technicalpic
 
     1. gem install homesick
 
-    2. homesick clone rchasman/dotfiles
+    2. homesick clone joshuafbadams/dotfiles
 
-    3. homesick symlink rchasman/dotfiles
+    3. homesick symlink joshuafbadams/dotfiles
